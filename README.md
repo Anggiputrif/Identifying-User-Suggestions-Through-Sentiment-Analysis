@@ -26,5 +26,6 @@ The final results identified ten discussion objects along with related words, wh
 8)	additional discussion of party views on asset forfeiture
 9)	additional discussion of election-winning party policies
 10)	additional darkmode settings on the screen display.
+
 The classification test results shows the highest accuracy of 94% and POS Tagging shows an accuracy of 93%.
 
