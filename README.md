@@ -1,8 +1,10 @@
 # Identifying-User-Suggestions-Through-Sentiment-Analysis
 Research Background :
+
 Bijak Memilih Platform is an application developed by an independent organization to provide information for the public related to the implementation of political activities. However, this platform is still a relatively new platform so it still needs a lot of input for its development. This is in accordance with their future target, which is to develop the platform based on feedback from social media. 
 
 Methods :
+
 This research uses 3000 data sourced from comments on Bijak Memilih’s social media posts that contain platform explanations. The sentiment classification process resulted in 1116 data point with negative sentiments that were tagged using POS Tagging.
 This project goes through several stages, including: 
 •	Sentiment analysis process using Naive Bayes Classifier algorithm to identify sentiments from opinions
@@ -10,6 +12,7 @@ This project goes through several stages, including:
 •	The process of identifying word combinations that often appear together using the a priori algorithm so as to obtain meaningful information from the relationship between words.
 
 Result :
+
 The final results identified ten discussion objects along with related words, which were concluded as user suggestions. The discussion objects describe specific issues and features that are proposed for addition or improvement on the Bijak Memilih platform, including :
 1)	additional features for ranking parties involved in corruption
 2)	additional features for profiles of candidates who have been corruptors
